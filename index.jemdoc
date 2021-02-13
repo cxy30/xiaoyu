@@ -12,25 +12,21 @@ email: [cxy30@pku.edu.cn]
   Hi, there. My name is Xiaoyu Chen. I am a third-year Ph.D. student in Peking University. I am very fortunate to be advised by [http://www.liweiwang-pku.com Prof. Liwei Wang]. Before that, I finished my undergraduate study with honors at Peking University. My research interests lie in reinforcement learning and online learning.  For reinforcement learning, I am interested in designing efficient exploration algorithms for RL problems. For online learning, I mainly focus on bandit learning.
 
 
-
-=== Publications 
-
-[https://arxiv.org/abs/2102.04132 Near-optimal Representation Learning for Linear Bandits and Linear RL]
+=== Preprints
+[https://arxiv.org/abs/2102.04132 arxiv] Near-optimal Representation Learning for Linear Bandits and Linear RL \n
 Jiachen Hu, Xiaoyu Chen, Chi Jin, Lihong Li, Liwei Wang
-Preprint
 
-[https://arxiv.org/abs/2008.13319 Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL]
+=== Conference Papers 
+
+
+[https://arxiv.org/abs/2008.13319 ICLR 2021] Efficient Reinforcement Learning in Factored MDPs with Application  to Constrained RL \n
 Xiaoyu Chen, Jiachen Hu, Lihong Li, Liwei Wang
-International Conference on Learning Representations (ICLR 2021)
 
-[https://arxiv.org/abs/2006.00706 (Locally) Differentially Private Combinatorial Semi-Bandits]
+[https://arxiv.org/abs/2006.00706 ICML 2020] (Locally) Differentially Private Combinatorial Semi-Bandits \n
 Xiaoyu Chen*, Kai Zheng*, Zixin Zhou,  Yunchang Yang, Wei Chen, Liwei Wang
-International Conference on Machine Learning (ICML 2020)
 
-[https://arxiv.org/abs/1904.06309 Distributed bandit learning: Near-optimal regret with efficient communication]
+[https://arxiv.org/abs/1904.06309 ICLR 2020] Distributed bandit learning: Near-optimal regret with efficient \n communication \n
 Yuanhao Wang, Jiachen Hu, Xiaoyu Chen, Liwei Wang
-International Conference on Learning Representations (ICLR 2020)
 
-[https://arxiv.org/abs/1901.09311 Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP]
+[https://arxiv.org/abs/1901.09311 ICLR 2020] Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP \n
 Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
-International Conference on Learning Representations (ICLR 2020)
