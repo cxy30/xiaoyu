@@ -14,19 +14,19 @@ My name is Xiaoyu Chen. I am a third-year Ph.D. student in Peking University. I 
 
 === Preprints
 \[[https://arxiv.org/abs/2102.04132 arXiv]\] Near-optimal Representation Learning for Linear Bandits and Linear RL \n
-Jiachen Hu, Xiaoyu Chen, Chi Jin, Lihong Li, Liwei Wang
+Jiachen Hu\*, *Xiaoyu Chen*\*, Chi Jin, Lihong Li, Liwei Wang
 
 === Conference Papers 
 
 
 \[[https://arxiv.org/abs/2008.13319 ICLR 2021]\] Efficient Reinforcement Learning in Factored MDPs with Application  to Constrained RL \n
-Xiaoyu Chen, Jiachen Hu, Lihong Li, Liwei Wang
+*Xiaoyu Chen*, Jiachen Hu, Lihong Li, Liwei Wang
 
 \[[https://arxiv.org/abs/2006.00706 ICML 2020]\] (Locally) Differentially Private Combinatorial Semi-Bandits \n
-Xiaoyu Chen*, Kai Zheng*, Zixin Zhou,  Yunchang Yang, Wei Chen, Liwei Wang
+*Xiaoyu Chen*\*, Kai Zheng\*, Zixin Zhou,  Yunchang Yang, Wei Chen, Liwei Wang
 
 \[[https://arxiv.org/abs/1904.06309 ICLR 2020]\] Distributed bandit learning: Near-optimal regret with efficient \n communication \n
-Yuanhao Wang, Jiachen Hu, Xiaoyu Chen, Liwei Wang
+Yuanhao Wang, Jiachen Hu, *Xiaoyu Chen*, Liwei Wang
 
 \[[https://arxiv.org/abs/1901.09311 ICLR 2020]\] Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP \n
-Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
+Kefan Dong, Yuanhao Wang, *Xiaoyu Chen*, Liwei Wang
