@@ -9,13 +9,8 @@ email: [cxy30@pku.edu.cn]
 ~~~
 
 == About me
-  Hi, there. My name is Xiaoyu Chen. I am a third-year Ph.D. student in Peking University. I am very fortunate to be advised by [http://www.liweiwang-pku.com Prof. Liwei Wang]. Before that, I finished my undergraduate study with honors at Peking University.
+  Hi, there. My name is Xiaoyu Chen. I am a third-year Ph.D. student in Peking University. I am very fortunate to be advised by [http://www.liweiwang-pku.com Prof. Liwei Wang]. Before that, I finished my undergraduate study with honors at Peking University. My research interests lie in reinforcement learning and online learning.  For reinforcement learning, I am interested in designing efficient exploration algorithms for RL problems. For online learning, I mainly focus on bandit learning.
 
-
-== Research
-My research interests include 
-- Reinforcement Learning
-- Bandit
 
 
 === Publications 
