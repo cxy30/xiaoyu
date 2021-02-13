@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Xiaoyu Chen
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160} 
+PhD student in [https://www.pku.edu.cn Peking University]
+email: [cxy30@pku.edu.cn]
+[https://scholar.google.com/citations?user=sioumZAAAAAJ&hl=en Google Scholar]
+~~~
+
+== About me
+  Hi, there. My name is Xiaoyu Chen. I am a third-year Ph.D. student in Peking University. I am very fortunate to be advised by [http://www.liweiwang-pku.com Prof. Liwei Wang]. Before that, I finished my undergraduate study with honors at Peking University.
+
+
+== Research
+My research interests include 
+- Reinforcement Learning
+- Bandit
+
+
+=== Publications 
+
+[https://arxiv.org/abs/2102.04132 Near-optimal Representation Learning for Linear Bandits and Linear RL]
+Jiachen Hu, Xiaoyu Chen, Chi Jin, Lihong Li, Liwei Wang
+Preprint
+
+[https://arxiv.org/abs/2008.13319 Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL]
+Xiaoyu Chen, Jiachen Hu, Lihong Li, Liwei Wang
+International Conference on Learning Representations (ICLR 2021)
+
+[https://arxiv.org/abs/2006.00706 (Locally) Differentially Private Combinatorial Semi-Bandits]
+Xiaoyu Chen*, Kai Zheng*, Zixin Zhou,  Yunchang Yang, Wei Chen, Liwei Wang
+International Conference on Machine Learning (ICML 2020)
+
+[https://arxiv.org/abs/1904.06309 Distributed bandit learning: Near-optimal regret with efficient communication]
+Yuanhao Wang, Jiachen Hu, Xiaoyu Chen, Liwei Wang
+International Conference on Learning Representations (ICLR 2020)
+
+[https://arxiv.org/abs/1901.09311 Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP]
+Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
+International Conference on Learning Representations (ICLR 2020)
